@@ -1,0 +1,76 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'14'
+-sourcepath
+'/home/ficdev/NetBeansProjects/TestesAula14/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'TestesAula14 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/14/docs/api' '/home/ficdev/NetBeansProjects/TestesAula14/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'TestesAula14 1.0-SNAPSHOT API'
+'/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/Disciplina.java'
+'/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/Turma.java'
+'/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/StudentDao.java'
+'/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/PostgreSQLDao.java'
+'/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/Main.java'
+'/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/Student.java'
+'/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/StudentDaoImpl.java'
+'/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/Main2.java'
+'/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/Avaliacao.java'
+/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/Disciplina.java = 1687178582599
+/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/Turma.java = 1687178522866
+/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/StudentDao.java = 1687177841176
+/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/PostgreSQLDao.java = 1687178518794
+/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/Main.java = 1687178096030
+/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/Student.java = 1687177841156
+/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/StudentDaoImpl.java = 1687177841072
+/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/Main2.java = 1687178567963
+/home/ficdev/NetBeansProjects/TestesAula14/src/main/java/Avaliacao.java = 1687178578531
+/home/ficdev/NetBeansProjects/TestesAula14/src/main/java = 1687178511474
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/package-use.html = 1687178926405
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/package-tree.html = 1687178926377
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/Main.html = 1687178926329
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/help-doc.html = 1687178926453
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/member-search-index.js = 1687178926441
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/stylesheet.css = 1687178926453
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/package-search-index.js = 1687178926429
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/Avaliacao.html = 1687178926309
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/allclasses-index.html = 1687178926449
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/type-search-index.js = 1687178926441
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/constant-values.html = 1687178926377
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/system-properties.html = 1687178926449
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/PostgreSQLDao.html = 1687178926337
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/index.html = 1687178926449
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/Student.html = 1687178926345
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/element-list = 1687178926369
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/type-search-index.zip = 1687178926441
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/Main2.html = 1687178926333
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/script.js = 1687178926453
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/StudentDaoImpl.html = 1687178926361
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/search.js = 1687178926457
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/StudentDao.html = 1687178926349
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/Turma.html = 1687178926369
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/overview-tree.html = 1687178926409
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/member-search-index.zip = 1687178926441
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/deprecated-list.html = 1687178926413
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/allpackages-index.html = 1687178926449
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/package-search-index.zip = 1687178926441
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/Disciplina.html = 1687178926321
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/package-summary.html = 1687178926373
+/home/ficdev/NetBeansProjects/TestesAula14/target/site/apidocs/index-all.html = 1687178926445
